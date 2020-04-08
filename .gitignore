@@ -1,0 +1,9 @@
+# Configuration file
+config.json
+
+# Binaries for programs and plugins
+*.exe
+
+# Lambda Go executable and zip file
+aws-lambda/main
+aws-lambda/*.zip
