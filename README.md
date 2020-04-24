@@ -2,10 +2,10 @@
 UCI Informatics Senior Design Project for [Twilio SendGrid](https://www.twilio.com/sendgrid)
 
 Team:
-Kayla Carrera - Developer
-Justin Lock (Me) - Developer
-Julie Tran - Project Manager
-Xiang Wang - Designer
+- Kayla Carrera - Developer
+- Justin Lock (Me) - Developer
+- Julie Tran - Project Manager
+- Xiang Wang - Designer
 
 I was responsible for creating the command line interface and connecting it with the database, setting up configuration, implementing checking if certificates in the database were revoked by the certificate authority, and implementing the AWS lambda function for the SSL certificate manager.
 
