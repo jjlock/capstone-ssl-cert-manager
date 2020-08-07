@@ -10,7 +10,7 @@ Team:
 I was responsible for creating the command line interface and connecting it with the database, setting up configuration, implementing checking if certificates in the database were revoked by the certificate authority, and implementing the AWS lambda function for the SSL certificate manager.
 
 ## Project Info
-In concept our SSL certificate manager was intended to be used by Twilio SendGrid engineers and their clients to automate the process of requesting and renewing SSL certificates and managing stored SSL certificates. This project in its current state is not intended to be used in production.
+In concept our SSL certificate manager was intended to be used by Twilio SendGrid engineers and their clients to automate the process of requesting and renewing SSL certificates and managing stored SSL certificates.
 
 This project uses the following:
 - Digital Ocean
